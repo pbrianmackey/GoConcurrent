@@ -27,6 +27,8 @@ Rent servers on demand rather than buy and underutilize.
 
 "With Azure, we didn’t have to invest in managing servers, so we could focus on delivering the most successful campaign,"
 
+"To help deliver that successful campaign, the company used the Azure Content Delivery Network to make the digital content available quickly, reliably, and globally to 10.5 million consumers."
+
 https://customers.microsoft.com/Pages/CustomerStory.aspx?recid=17735
 
 ##Hypervisor
@@ -43,3 +45,13 @@ Containers vs virtual machines.
 
 ##
 - https://en.wikipedia.org/wiki/Cgroups
+
+##Microsoft's acceptance
+
+- http://research.microsoft.com/en-us/projects/drawbridge/
+- http://thenewstack.io/docker-for-windows-is-on-its-way/
+
+##Blogs
+
+- https://major.io/
+- http://blog.bensigelman.org/
