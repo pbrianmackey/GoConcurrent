@@ -4,7 +4,7 @@ Microsoft azure provides computing resources around the world accessible on the 
 
 #One step at a time
 
-Start by adding azure to something small like dev/test environment.  Its 100 bucks a month for a terabyte of backed up data.
+Start by adding azure to something small like dev/test environment.  Its 100 bucks a month for a terabyte of backed up data.  Dev/test is not subject to regulatory requirements because you (should) use fake data.
 
 ##security
 
